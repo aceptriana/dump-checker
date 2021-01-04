@@ -1,5 +1,5 @@
 # Moonton Dump + Checker Email Password
-Moonton checker
+
 -  pkg update && pkg upgrade
 -  pkg install python git
 -  Pkg install nano
@@ -9,8 +9,8 @@ Moonton checker
 -  pip install requests futures
 -  git clone https://github.com/aceptriana/dump-checker
 -  cd dump-checker
-Moonton Dump Email + Password
+## Moonton Dump Email + Password
 - bash empass.sh
-Moonton checker
+## Moonton checker
 - python cek.py
 - create list using nano save as in dir dump-checker
