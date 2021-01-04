@@ -1,11 +1,11 @@
 # Moonton Dump + Checker Email Password
-
+## Instalasi
 -  pkg update && pkg upgrade
 -  pkg install python git
--  Pkg install nano
--  Pkg install pv
--  Pkg install curl
--  Pkg install wget
+-  pkg install nano
+-  pkg install pv
+-  pkg install curl
+-  pkg install wget
 -  pip install requests futures
 -  git clone https://github.com/aceptriana/dump-checker
 -  cd dump-checker
